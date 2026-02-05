@@ -1,6 +1,5 @@
 {
-  "name": "bpb-panel",
-  "main": "src/worker.ts",
+  "name": "worker",
   "compatibility_date": "2026-02-05",
   "compatibility_flags": ["nodejs_compat"]
 }
