@@ -1,0 +1,6 @@
+{
+  "name": "bpb-panel",
+  "main": "src/worker.ts",
+  "compatibility_date": "2026-02-05",
+  "node_compat": true
+}
